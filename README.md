@@ -54,3 +54,25 @@ We present an overview of all identified dialogue acts in the table blow.
 ## Process model
 We employed process mining techniques, since they have been successfully applied to discover sequential patterns from dialogue logs. For the process discovery, we chose an inductive miner algorithm from the Python-based process mining library called PM4Py (https://pm4py.fit.fraunhofer.de/).
 
+# Citation information
+
+For citing this study in academic papers and theses, please use the following BibTeX entry:
+
+``` 
+@InProceedings{10.1007/978-3-031-28238-6_52,
+title = "Investigating Conversational Search Behavior for Domain Exploration",
+abstract = "Conversational search has evolved as a new information retrieval paradigm, marking a shift from traditional search systems towards interactive dialogues with intelligent search agents. This change especially affects exploratory information-seeking contexts, where conversational search systems can guide the discovery of unfamiliar domains. In these scenarios, users find it often difficult to express their information goals due to insufficient background knowledge. Conversational interfaces can provide assistance by eliciting information needs and narrowing down the search space. However, due to the complexity of information-seeking behavior, the design of conversational interfaces for retrieving information remains a great challenge. Although prior work has employed user studies to empirically ground the system design, most existing studies are limited to well-defined search tasks or known domains, thus being less exploratory in nature. Therefore, we conducted a laboratory study to investigate open-ended search behavior for navigation through unknown information landscapes. The study comprised of 26 participants who were restricted in their search to a text chat interface. Based on the collected dialogue transcripts, we applied statistical analyses and process mining techniques to uncover general information-seeking patterns across five different domains. We not only identify core dialogue acts and their interrelations that enable users to discover domain knowledge, but also derive design suggestions for conversational search systems.",
+keywords = "Conversational interfaces, Dialogue study, Exploratory search",
+author = "Phillip Schneider and Anum Afzal and Juraj Vladika and Daniel Braun and Florian Matthes",
+note = "Publisher Copyright: {\textcopyright} 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.; 45th European Conference on Information Retrieval, ECIR 2023 ; Conference date: 02-04-2023 Through 06-04-2023",
+year = "2023",
+doi = "10.1007/978-3-031-28238-6_52",
+language = "English",
+isbn = "9783031282379",
+series = "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+publisher = "Springer Science and Business Media Deutschland GmbH",
+pages = "608--616",
+editor = "Jaap Kamps and Lorraine Goeuriot and Fabio Crestani and Maria Maistro and Hideo Joho and Brian Davis and Cathal Gurrin and Annalina Caputo and Udo Kruschwitz",
+booktitle = "Advances in Information Retrieval - 45th European Conference on Information Retrieval, ECIR 2023, Proceedings",
+}
+``` 
