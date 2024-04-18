@@ -54,9 +54,9 @@ We present an overview of all identified dialogue acts in the table blow.
 ## Process model
 We employed process mining techniques, since they have been successfully applied to discover sequential patterns from dialogue logs. For the process discovery, we chose an inductive miner algorithm from the Python-based process mining library called PM4Py (https://pm4py.fit.fraunhofer.de/).
 
-# Citation information
+## Citation Information
 
-For citing this study in academic papers and theses, please use the following BibTeX entry:
+For citing this study in academic papers, presentations, or theses, please use the following BibTeX entry:
 
 ``` 
 @InProceedings{10.1007/978-3-031-28238-6_52,
